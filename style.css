@@ -93,7 +93,7 @@ button:hover {
 /* Balloons */
 .balloon {
     position: absolute;
-    bottom: -150px;
+    bottom: 0px;
     width: 60px;
     height: 80px;
     background: var(--color);
